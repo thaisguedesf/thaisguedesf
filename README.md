@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Minhas redes sociais caso queira se contectar comigo!
+  ### Minhas redes sociais!
  
 <div> 
   <a href="https://instagram.com/thaaguedesf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
